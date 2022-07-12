@@ -1,0 +1,10 @@
+@Component({
+  selector: 'app-vendor-assesment',
+  templateUrl: './vendor-assesment.component.html',
+  styleUrls: ['./vendor-assesment.component.scss'],
+  encapsulation: ViewEncapsulation.None,
+})
+
+
+
+encapsulation: ViewEncapsulation.None
